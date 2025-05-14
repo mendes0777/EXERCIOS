@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body{ background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: smaller;
+
+}
+h1{ text-decoration-line: var(background-color);
+    text-decoration: underline;
+    color: brown;
+}
+h2{
+    color: blue;
+}
